@@ -3,11 +3,8 @@ Running simple sql queries in python
 
 
 - The dataset obtained has been scraped from https://www.beautybay.com/
-- 
 - It contains a product_type, brand_name, product_description, price and quantity columns
-- 
 - There are five types of products (cleansers, moisturizers, sunscreen/uv, masks, toner/mist and tools
-- 
 - There are 87 unique brands ('Carbon Theory', 'Mario Badescu', 'forence by is', 'Dr. Paw Paw',
  'By BEAUTY BAY', 'Yes To', 'aya skin', 'Faracy', 'Eeis',
  'Forua 10.0.6', 'Revoution Skincare', 'COSRX',
@@ -30,6 +27,5 @@ Running simple sql queries in python
  'Aies of Skin', 'Anastasia Bevery His', 'NEOM', 'Pau & Joe',
  'Makeup Revoution', 'TAN-LUXE', 'Utrasun', 'Soei Toujours')
 
-
-- -The product description column describes what a particular product is (examples include 'Get That Grie Face Scrub', Botanica Exfoliatin Scrub' and 'AHA 30% + BHA 2% Peeling Soution'
+- The product description column describes what a particular product is (examples include 'Get That Grie Face Scrub', Botanica Exfoliatin Scrub' and 'AHA 30% + BHA 2% Peeling Soution'
 
